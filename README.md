@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 ## My name's Ron. This is my portfolio of academic and personal projects. 
-# 📫 How to reach me: rpdumalagan@gmail.com
+## 📫 How to reach me: rpdumalagan@gmail.com
 <!--
 **ronduma/ronduma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
